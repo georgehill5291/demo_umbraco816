@@ -1,7 +1,8 @@
 .vs/
-George.Service/George.Service.csproj
 George.Service/obj/
 George.Umbraco816/App_Data/TEMP/
 George.Umbraco816/obj/
 George.Web/obj/
 George.Umbraco816/App_Data/Logs/
+George.Service/bin/
+George.Web/George.Web.csproj.user
